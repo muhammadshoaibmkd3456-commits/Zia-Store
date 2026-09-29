@@ -1,0 +1,6 @@
+{
+  "name": "ZiaStore",
+  "description": "Mobile POS, Khata ledger, and inventory manager for retail shops",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
